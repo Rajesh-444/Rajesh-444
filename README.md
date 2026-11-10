@@ -1,12 +1,24 @@
+![Rajesh Palanthod - AI/ML, Data, and Software](assets/profile-banner.png)
+
 # Hi, I'm Rajesh Palanthod
 
 AI/ML graduate building reliable software, intelligent applications, and data products.
 
 I enjoy turning ambiguous problems into practical systems - from NLP applications and computer-vision models to ETL pipelines and full-stack tools. My recent work includes an AI legal assistant, a multi-user agency operations platform, and Databricks-based data integration pipelines.
 
-## What I work with
+## Tech stack
 
-`Python` `SQL` `JavaScript` `React` `Spark SQL` `Databricks` `PostgreSQL` `Supabase` `Azure` `AWS` `TensorFlow` `OpenCV`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,r,postgres,supabase,azure,aws,tensorflow,opencv,git,github&perline=7" alt="Python, JavaScript, React, HTML, CSS, R, PostgreSQL, Supabase, Azure, AWS, TensorFlow, OpenCV, Git, and GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 ## Featured projects
 
